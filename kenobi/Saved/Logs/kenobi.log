@@ -816,3 +816,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.06-14.26.20:191][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateCube_Rounded_53)
 [2021.06.06-14.26.38:596][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateCube_Rounded_3)
 [2021.06.06-14.26.56:813][804]LogSlate: Took 0.023014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.06-14.27.36:572][568]Cmd: TRANSACTION UNDO
+[2021.06.06-14.27.36:572][568]LogEditorTransaction: Undo Move Actors
+[2021.06.06-14.27.37:014][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
